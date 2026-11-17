@@ -1,0 +1,722 @@
+306546 init F1=1 INSERT=1 END=1 llhook=1 rawinput=1
+306625 target process lost - clearing anchors and re-attaching
+306640 re-attached to pid 18948
+306734 target process lost - clearing anchors and re-attaching
+306734 re-attached to pid 18948
+306843 target process lost - clearing anchors and re-attaching
+306843 re-attached to pid 18948
+306953 target process lost - clearing anchors and re-attaching
+306953 re-attached to pid 18948
+307062 target process lost - clearing anchors and re-attaching
+307062 re-attached to pid 18948
+307171 target process lost - clearing anchors and re-attaching
+307171 re-attached to pid 18948
+307265 target process lost - clearing anchors and re-attaching
+307281 re-attached to pid 18948
+307390 target process lost - clearing anchors and re-attaching
+307406 re-attached to pid 18948
+307515 target process lost - clearing anchors and re-attaching
+307531 re-attached to pid 18948
+307625 target process lost - clearing anchors and re-attaching
+307640 re-attached to pid 18948
+307734 target process lost - clearing anchors and re-attaching
+307750 re-attached to pid 18948
+307859 target process lost - clearing anchors and re-attaching
+307859 re-attached to pid 18948
+307968 target process lost - clearing anchors and re-attaching
+307968 re-attached to pid 18948
+308078 target process lost - clearing anchors and re-attaching
+308078 re-attached to pid 18948
+308171 target process lost - clearing anchors and re-attaching
+308187 re-attached to pid 18948
+308296 target process lost - clearing anchors and re-attaching
+308296 re-attached to pid 18948
+308406 target process lost - clearing anchors and re-attaching
+308406 re-attached to pid 18948
+308500 target process lost - clearing anchors and re-attaching
+308515 re-attached to pid 18948
+308625 target process lost - clearing anchors and re-attaching
+308625 re-attached to pid 18948
+308718 target process lost - clearing anchors and re-attaching
+308734 re-attached to pid 18948
+308828 target process lost - clearing anchors and re-attaching
+308843 re-attached to pid 18948
+308937 target process lost - clearing anchors and re-attaching
+308953 re-attached to pid 18948
+309046 target process lost - clearing anchors and re-attaching
+309046 re-attached to pid 18948
+309140 target process lost - clearing anchors and re-attaching
+309156 re-attached to pid 18948
+309250 target process lost - clearing anchors and re-attaching
+309265 re-attached to pid 18948
+309375 target process lost - clearing anchors and re-attaching
+309375 re-attached to pid 18948
+309468 target process lost - clearing anchors and re-attaching
+309484 re-attached to pid 18948
+309578 target process lost - clearing anchors and re-attaching
+309578 re-attached to pid 18948
+309687 target process lost - clearing anchors and re-attaching
+309687 re-attached to pid 18948
+309796 target process lost - clearing anchors and re-attaching
+309796 re-attached to pid 18948
+309906 target process lost - clearing anchors and re-attaching
+309906 re-attached to pid 18948
+310000 target process lost - clearing anchors and re-attaching
+310015 re-attached to pid 18948
+310109 target process lost - clearing anchors and re-attaching
+310125 re-attached to pid 18948
+310218 target process lost - clearing anchors and re-attaching
+310234 re-attached to pid 18948
+310312 target process lost - clearing anchors and re-attaching
+310328 re-attached to pid 18948
+310421 target process lost - clearing anchors and re-attaching
+310437 re-attached to pid 18948
+310531 target process lost - clearing anchors and re-attaching
+310546 re-attached to pid 18948
+310640 target process lost - clearing anchors and re-attaching
+310656 re-attached to pid 18948
+310750 target process lost - clearing anchors and re-attaching
+310750 re-attached to pid 18948
+310859 target process lost - clearing anchors and re-attaching
+310859 re-attached to pid 18948
+310968 target process lost - clearing anchors and re-attaching
+310968 re-attached to pid 18948
+311062 target process lost - clearing anchors and re-attaching
+311078 re-attached to pid 18948
+311171 target process lost - clearing anchors and re-attaching
+311171 re-attached to pid 18948
+311281 target process lost - clearing anchors and re-attaching
+311281 re-attached to pid 18948
+311390 target process lost - clearing anchors and re-attaching
+311390 re-attached to pid 18948
+311484 target process lost - clearing anchors and re-attaching
+311500 re-attached to pid 18948
+311593 target process lost - clearing anchors and re-attaching
+311609 re-attached to pid 18948
+311687 target process lost - clearing anchors and re-attaching
+311703 re-attached to pid 18948
+311734 key id=1 src=hook act (age=311734)
+311734 F1 menu=open
+311750 key id=1 src=raw held, ignored
+311781 key id=1 src=poll held, ignored
+311812 target process lost - clearing anchors and re-attaching
+311828 re-attached to pid 18948
+311921 target process lost - clearing anchors and re-attaching
+311937 re-attached to pid 18948
+312046 target process lost - clearing anchors and re-attaching
+312046 re-attached to pid 18948
+312156 target process lost - clearing anchors and re-attaching
+312156 re-attached to pid 18948
+312265 target process lost - clearing anchors and re-attaching
+312281 re-attached to pid 18948
+312390 target process lost - clearing anchors and re-attaching
+312390 re-attached to pid 18948
+312500 target process lost - clearing anchors and re-attaching
+312500 re-attached to pid 18948
+312609 target process lost - clearing anchors and re-attaching
+312625 re-attached to pid 18948
+312734 target process lost - clearing anchors and re-attaching
+312750 re-attached to pid 18948
+312843 target process lost - clearing anchors and re-attaching
+312859 re-attached to pid 18948
+312953 target process lost - clearing anchors and re-attaching
+312953 re-attached to pid 18948
+313046 target process lost - clearing anchors and re-attaching
+313062 re-attached to pid 18948
+313171 target process lost - clearing anchors and re-attaching
+313187 re-attached to pid 18948
+313296 target process lost - clearing anchors and re-attaching
+313296 re-attached to pid 18948
+313390 target process lost - clearing anchors and re-attaching
+313406 re-attached to pid 18948
+313500 target process lost - clearing anchors and re-attaching
+313515 re-attached to pid 18948
+313609 target process lost - clearing anchors and re-attaching
+313625 re-attached to pid 18948
+313718 target process lost - clearing anchors and re-attaching
+313734 re-attached to pid 18948
+313750 key id=1 src=hook act (age=2016)
+313750 F1 menu=closed
+313750 key id=1 src=raw held, ignored
+313781 key id=1 src=poll held, ignored
+313828 target process lost - clearing anchors and re-attaching
+313843 re-attached to pid 18948
+313937 target process lost - clearing anchors and re-attaching
+313953 re-attached to pid 18948
+314046 target process lost - clearing anchors and re-attaching
+314046 re-attached to pid 18948
+314093 key id=1 src=hook act (age=343)
+314093 F1 menu=open
+314093 key id=1 src=raw held, ignored
+314109 key id=1 src=poll held, ignored
+314156 target process lost - clearing anchors and re-attaching
+314171 re-attached to pid 18948
+314265 target process lost - clearing anchors and re-attaching
+314265 re-attached to pid 18948
+314359 target process lost - clearing anchors and re-attaching
+314375 re-attached to pid 18948
+314468 target process lost - clearing anchors and re-attaching
+314484 re-attached to pid 18948
+314578 target process lost - clearing anchors and re-attaching
+314578 re-attached to pid 18948
+314671 target process lost - clearing anchors and re-attaching
+314687 re-attached to pid 18948
+314765 target process lost - clearing anchors and re-attaching
+314781 re-attached to pid 18948
+314890 target process lost - clearing anchors and re-attaching
+314890 re-attached to pid 18948
+314984 target process lost - clearing anchors and re-attaching
+315000 re-attached to pid 18948
+315093 target process lost - clearing anchors and re-attaching
+315109 re-attached to pid 18948
+315203 target process lost - clearing anchors and re-attaching
+315218 re-attached to pid 18948
+315312 target process lost - clearing anchors and re-attaching
+315328 re-attached to pid 18948
+315421 target process lost - clearing anchors and re-attaching
+315421 re-attached to pid 18948
+315515 target process lost - clearing anchors and re-attaching
+315531 re-attached to pid 18948
+315625 target process lost - clearing anchors and re-attaching
+315640 re-attached to pid 18948
+315750 target process lost - clearing anchors and re-attaching
+315750 re-attached to pid 18948
+315843 target process lost - clearing anchors and re-attaching
+315859 re-attached to pid 18948
+315953 target process lost - clearing anchors and re-attaching
+315968 re-attached to pid 18948
+316062 target process lost - clearing anchors and re-attaching
+316078 re-attached to pid 18948
+316171 target process lost - clearing anchors and re-attaching
+316187 re-attached to pid 18948
+316281 target process lost - clearing anchors and re-attaching
+316296 re-attached to pid 18948
+316375 target process lost - clearing anchors and re-attaching
+316390 re-attached to pid 18948
+316484 target process lost - clearing anchors and re-attaching
+316500 re-attached to pid 18948
+316593 target process lost - clearing anchors and re-attaching
+316609 re-attached to pid 18948
+316703 target process lost - clearing anchors and re-attaching
+316718 re-attached to pid 18948
+316812 target process lost - clearing anchors and re-attaching
+316812 re-attached to pid 18948
+316921 target process lost - clearing anchors and re-attaching
+316921 re-attached to pid 18948
+317031 target process lost - clearing anchors and re-attaching
+317046 re-attached to pid 18948
+317140 target process lost - clearing anchors and re-attaching
+317156 re-attached to pid 18948
+317234 target process lost - clearing anchors and re-attaching
+317250 re-attached to pid 18948
+317343 target process lost - clearing anchors and re-attaching
+317359 re-attached to pid 18948
+317453 target process lost - clearing anchors and re-attaching
+317453 re-attached to pid 18948
+317546 target process lost - clearing anchors and re-attaching
+317562 re-attached to pid 18948
+317656 target process lost - clearing anchors and re-attaching
+317671 re-attached to pid 18948
+317765 target process lost - clearing anchors and re-attaching
+317781 re-attached to pid 18948
+317890 target process lost - clearing anchors and re-attaching
+317890 re-attached to pid 18948
+318000 target process lost - clearing anchors and re-attaching
+318000 re-attached to pid 18948
+318093 target process lost - clearing anchors and re-attaching
+318109 re-attached to pid 18948
+318203 target process lost - clearing anchors and re-attaching
+318203 re-attached to pid 18948
+318312 target process lost - clearing anchors and re-attaching
+318328 re-attached to pid 18948
+318421 target process lost - clearing anchors and re-attaching
+318421 re-attached to pid 18948
+318531 target process lost - clearing anchors and re-attaching
+318531 re-attached to pid 18948
+318625 target process lost - clearing anchors and re-attaching
+318640 re-attached to pid 18948
+318750 target process lost - clearing anchors and re-attaching
+318765 re-attached to pid 18948
+318859 target process lost - clearing anchors and re-attaching
+318859 re-attached to pid 18948
+318953 target process lost - clearing anchors and re-attaching
+318968 re-attached to pid 18948
+319062 target process lost - clearing anchors and re-attaching
+319078 re-attached to pid 18948
+319187 target process lost - clearing anchors and re-attaching
+319187 re-attached to pid 18948
+319281 target process lost - clearing anchors and re-attaching
+319296 re-attached to pid 18948
+319406 target process lost - clearing anchors and re-attaching
+319406 re-attached to pid 18948
+319515 target process lost - clearing anchors and re-attaching
+319515 re-attached to pid 18948
+319625 target process lost - clearing anchors and re-attaching
+319640 re-attached to pid 18948
+319718 target process lost - clearing anchors and re-attaching
+319734 re-attached to pid 18948
+319828 target process lost - clearing anchors and re-attaching
+319828 re-attached to pid 18948
+319921 target process lost - clearing anchors and re-attaching
+319937 re-attached to pid 18948
+320046 target process lost - clearing anchors and re-attaching
+320046 re-attached to pid 18948
+320140 target process lost - clearing anchors and re-attaching
+320156 re-attached to pid 18948
+320250 target process lost - clearing anchors and re-attaching
+320250 re-attached to pid 18948
+320343 target process lost - clearing anchors and re-attaching
+320359 re-attached to pid 18948
+320468 target process lost - clearing anchors and re-attaching
+320484 re-attached to pid 18948
+320578 target process lost - clearing anchors and re-attaching
+320578 re-attached to pid 18948
+320687 target process lost - clearing anchors and re-attaching
+320687 re-attached to pid 18948
+320781 target process lost - clearing anchors and re-attaching
+320796 re-attached to pid 18948
+320890 target process lost - clearing anchors and re-attaching
+320890 re-attached to pid 18948
+320984 target process lost - clearing anchors and re-attaching
+320984 re-attached to pid 18948
+321078 target process lost - clearing anchors and re-attaching
+321093 re-attached to pid 18948
+321187 target process lost - clearing anchors and re-attaching
+321203 re-attached to pid 18948
+321296 target process lost - clearing anchors and re-attaching
+321312 re-attached to pid 18948
+321406 target process lost - clearing anchors and re-attaching
+321421 re-attached to pid 18948
+321515 target process lost - clearing anchors and re-attaching
+321515 re-attached to pid 18948
+321625 target process lost - clearing anchors and re-attaching
+321625 re-attached to pid 18948
+321734 target process lost - clearing anchors and re-attaching
+321734 re-attached to pid 18948
+321828 target process lost - clearing anchors and re-attaching
+321828 re-attached to pid 18948
+321921 target process lost - clearing anchors and re-attaching
+321937 re-attached to pid 18948
+322031 target process lost - clearing anchors and re-attaching
+322031 re-attached to pid 18948
+322140 target process lost - clearing anchors and re-attaching
+322156 re-attached to pid 18948
+322234 target process lost - clearing anchors and re-attaching
+322250 re-attached to pid 18948
+322343 target process lost - clearing anchors and re-attaching
+322343 re-attached to pid 18948
+322453 target process lost - clearing anchors and re-attaching
+322453 re-attached to pid 18948
+322562 target process lost - clearing anchors and re-attaching
+322562 re-attached to pid 18948
+322687 target process lost - clearing anchors and re-attaching
+322687 re-attached to pid 18948
+322796 target process lost - clearing anchors and re-attaching
+322812 re-attached to pid 18948
+322921 target process lost - clearing anchors and re-attaching
+322921 re-attached to pid 18948
+323015 target process lost - clearing anchors and re-attaching
+323031 re-attached to pid 18948
+323125 target process lost - clearing anchors and re-attaching
+323125 re-attached to pid 18948
+323234 target process lost - clearing anchors and re-attaching
+323234 re-attached to pid 18948
+323343 target process lost - clearing anchors and re-attaching
+323343 re-attached to pid 18948
+323437 target process lost - clearing anchors and re-attaching
+323437 re-attached to pid 18948
+323546 target process lost - clearing anchors and re-attaching
+323546 re-attached to pid 18948
+323640 target process lost - clearing anchors and re-attaching
+323640 re-attached to pid 18948
+323750 target process lost - clearing anchors and re-attaching
+323750 re-attached to pid 18948
+323843 target process lost - clearing anchors and re-attaching
+323859 re-attached to pid 18948
+323953 target process lost - clearing anchors and re-attaching
+323953 re-attached to pid 18948
+324046 target process lost - clearing anchors and re-attaching
+324046 re-attached to pid 18948
+324125 target process lost - clearing anchors and re-attaching
+324140 re-attached to pid 18948
+324218 target process lost - clearing anchors and re-attaching
+324234 re-attached to pid 18948
+324328 target process lost - clearing anchors and re-attaching
+324328 re-attached to pid 18948
+324406 target process lost - clearing anchors and re-attaching
+324421 re-attached to pid 18948
+324500 target process lost - clearing anchors and re-attaching
+324515 re-attached to pid 18948
+324593 target process lost - clearing anchors and re-attaching
+324593 re-attached to pid 18948
+324671 target process lost - clearing anchors and re-attaching
+324687 re-attached to pid 18948
+324765 target process lost - clearing anchors and re-attaching
+324765 re-attached to pid 18948
+324843 target process lost - clearing anchors and re-attaching
+324859 re-attached to pid 18948
+324937 target process lost - clearing anchors and re-attaching
+324937 re-attached to pid 18948
+325031 target process lost - clearing anchors and re-attaching
+325031 re-attached to pid 18948
+325109 target process lost - clearing anchors and re-attaching
+325125 re-attached to pid 18948
+325203 target process lost - clearing anchors and re-attaching
+325218 re-attached to pid 18948
+325296 target process lost - clearing anchors and re-attaching
+325296 re-attached to pid 18948
+325375 target process lost - clearing anchors and re-attaching
+325390 re-attached to pid 18948
+325468 target process lost - clearing anchors and re-attaching
+325468 re-attached to pid 18948
+325546 target process lost - clearing anchors and re-attaching
+325546 re-attached to pid 18948
+325640 target process lost - clearing anchors and re-attaching
+325640 re-attached to pid 18948
+325750 target process lost - clearing anchors and re-attaching
+325750 re-attached to pid 18948
+325859 target process lost - clearing anchors and re-attaching
+325859 re-attached to pid 18948
+325968 target process lost - clearing anchors and re-attaching
+325984 re-attached to pid 18948
+326093 target process lost - clearing anchors and re-attaching
+326093 re-attached to pid 18948
+326171 target process lost - clearing anchors and re-attaching
+326171 re-attached to pid 18948
+326250 target process lost - clearing anchors and re-attaching
+326265 re-attached to pid 18948
+326328 target process lost - clearing anchors and re-attaching
+326343 re-attached to pid 18948
+326421 target process lost - clearing anchors and re-attaching
+326421 re-attached to pid 18948
+326500 target process lost - clearing anchors and re-attaching
+326515 re-attached to pid 18948
+326593 target process lost - clearing anchors and re-attaching
+326593 re-attached to pid 18948
+326671 target process lost - clearing anchors and re-attaching
+326687 re-attached to pid 18948
+326765 target process lost - clearing anchors and re-attaching
+326765 re-attached to pid 18948
+326843 target process lost - clearing anchors and re-attaching
+326843 re-attached to pid 18948
+326921 target process lost - clearing anchors and re-attaching
+326937 re-attached to pid 18948
+327015 target process lost - clearing anchors and re-attaching
+327015 re-attached to pid 18948
+327093 target process lost - clearing anchors and re-attaching
+327093 re-attached to pid 18948
+327171 target process lost - clearing anchors and re-attaching
+327187 re-attached to pid 18948
+327265 target process lost - clearing anchors and re-attaching
+327265 re-attached to pid 18948
+327343 target process lost - clearing anchors and re-attaching
+327343 re-attached to pid 18948
+327421 target process lost - clearing anchors and re-attaching
+327437 re-attached to pid 18948
+327500 target process lost - clearing anchors and re-attaching
+327515 re-attached to pid 18948
+327593 target process lost - clearing anchors and re-attaching
+327593 re-attached to pid 18948
+327671 target process lost - clearing anchors and re-attaching
+327671 re-attached to pid 18948
+327765 target process lost - clearing anchors and re-attaching
+327765 re-attached to pid 18948
+327843 target process lost - clearing anchors and re-attaching
+327843 re-attached to pid 18948
+327921 target process lost - clearing anchors and re-attaching
+327921 re-attached to pid 18948
+328000 target process lost - clearing anchors and re-attaching
+328015 re-attached to pid 18948
+328093 target process lost - clearing anchors and re-attaching
+328093 re-attached to pid 18948
+328203 target process lost - clearing anchors and re-attaching
+328203 re-attached to pid 18948
+328281 target process lost - clearing anchors and re-attaching
+328296 re-attached to pid 18948
+328406 target process lost - clearing anchors and re-attaching
+328406 re-attached to pid 18948
+328515 target process lost - clearing anchors and re-attaching
+328515 re-attached to pid 18948
+328625 target process lost - clearing anchors and re-attaching
+328640 re-attached to pid 18948
+328734 target process lost - clearing anchors and re-attaching
+328750 re-attached to pid 18948
+328859 target process lost - clearing anchors and re-attaching
+328859 re-attached to pid 18948
+328968 target process lost - clearing anchors and re-attaching
+328968 re-attached to pid 18948
+329078 target process lost - clearing anchors and re-attaching
+329078 re-attached to pid 18948
+329187 target process lost - clearing anchors and re-attaching
+329187 re-attached to pid 18948
+329296 target process lost - clearing anchors and re-attaching
+329296 re-attached to pid 18948
+329406 target process lost - clearing anchors and re-attaching
+329421 re-attached to pid 18948
+329515 target process lost - clearing anchors and re-attaching
+329531 re-attached to pid 18948
+329640 target process lost - clearing anchors and re-attaching
+329640 re-attached to pid 18948
+329750 target process lost - clearing anchors and re-attaching
+329750 re-attached to pid 18948
+329859 target process lost - clearing anchors and re-attaching
+329859 re-attached to pid 18948
+329968 target process lost - clearing anchors and re-attaching
+329968 re-attached to pid 18948
+330093 target process lost - clearing anchors and re-attaching
+330093 re-attached to pid 18948
+330203 target process lost - clearing anchors and re-attaching
+330203 re-attached to pid 18948
+330312 target process lost - clearing anchors and re-attaching
+330312 re-attached to pid 18948
+330421 target process lost - clearing anchors and re-attaching
+330421 re-attached to pid 18948
+330531 target process lost - clearing anchors and re-attaching
+330531 re-attached to pid 18948
+330640 target process lost - clearing anchors and re-attaching
+330640 re-attached to pid 18948
+330750 target process lost - clearing anchors and re-attaching
+330765 re-attached to pid 18948
+330875 target process lost - clearing anchors and re-attaching
+330875 re-attached to pid 18948
+330984 target process lost - clearing anchors and re-attaching
+330984 re-attached to pid 18948
+331093 target process lost - clearing anchors and re-attaching
+331109 re-attached to pid 18948
+331218 target process lost - clearing anchors and re-attaching
+331218 re-attached to pid 18948
+331328 target process lost - clearing anchors and re-attaching
+331328 re-attached to pid 18948
+331437 target process lost - clearing anchors and re-attaching
+331437 re-attached to pid 18948
+331546 target process lost - clearing anchors and re-attaching
+331562 re-attached to pid 18948
+331656 target process lost - clearing anchors and re-attaching
+331671 re-attached to pid 18948
+331765 target process lost - clearing anchors and re-attaching
+331765 re-attached to pid 18948
+331875 target process lost - clearing anchors and re-attaching
+331875 re-attached to pid 18948
+331968 target process lost - clearing anchors and re-attaching
+331968 re-attached to pid 18948
+332078 target process lost - clearing anchors and re-attaching
+332093 re-attached to pid 18948
+332203 target process lost - clearing anchors and re-attaching
+332203 re-attached to pid 18948
+332312 target process lost - clearing anchors and re-attaching
+332312 re-attached to pid 18948
+332437 target process lost - clearing anchors and re-attaching
+332437 re-attached to pid 18948
+332546 target process lost - clearing anchors and re-attaching
+332546 re-attached to pid 18948
+332656 target process lost - clearing anchors and re-attaching
+332671 re-attached to pid 18948
+332765 target process lost - clearing anchors and re-attaching
+332765 re-attached to pid 18948
+332875 target process lost - clearing anchors and re-attaching
+332890 re-attached to pid 18948
+332984 target process lost - clearing anchors and re-attaching
+333000 re-attached to pid 18948
+333109 target process lost - clearing anchors and re-attaching
+333109 re-attached to pid 18948
+333218 target process lost - clearing anchors and re-attaching
+333218 re-attached to pid 18948
+333328 target process lost - clearing anchors and re-attaching
+333328 re-attached to pid 18948
+333437 target process lost - clearing anchors and re-attaching
+333453 re-attached to pid 18948
+333562 target process lost - clearing anchors and re-attaching
+333562 re-attached to pid 18948
+333671 target process lost - clearing anchors and re-attaching
+333671 re-attached to pid 18948
+333781 target process lost - clearing anchors and re-attaching
+333781 re-attached to pid 18948
+333890 target process lost - clearing anchors and re-attaching
+333890 re-attached to pid 18948
+334000 target process lost - clearing anchors and re-attaching
+334000 re-attached to pid 18948
+334109 target process lost - clearing anchors and re-attaching
+334109 re-attached to pid 18948
+334218 target process lost - clearing anchors and re-attaching
+334234 re-attached to pid 18948
+334312 target process lost - clearing anchors and re-attaching
+334328 re-attached to pid 18948
+334421 target process lost - clearing anchors and re-attaching
+334421 re-attached to pid 18948
+334515 target process lost - clearing anchors and re-attaching
+334515 re-attached to pid 18948
+334609 target process lost - clearing anchors and re-attaching
+334609 re-attached to pid 18948
+334718 target process lost - clearing anchors and re-attaching
+334734 re-attached to pid 18948
+334843 target process lost - clearing anchors and re-attaching
+334843 re-attached to pid 18948
+334953 target process lost - clearing anchors and re-attaching
+334968 re-attached to pid 18948
+335078 target process lost - clearing anchors and re-attaching
+335078 re-attached to pid 18948
+335187 target process lost - clearing anchors and re-attaching
+335187 re-attached to pid 18948
+335296 target process lost - clearing anchors and re-attaching
+335296 re-attached to pid 18948
+335406 target process lost - clearing anchors and re-attaching
+335406 re-attached to pid 18948
+335515 target process lost - clearing anchors and re-attaching
+335515 re-attached to pid 18948
+335640 target process lost - clearing anchors and re-attaching
+335640 re-attached to pid 18948
+335734 target process lost - clearing anchors and re-attaching
+335734 re-attached to pid 18948
+335828 target process lost - clearing anchors and re-attaching
+335828 re-attached to pid 18948
+335953 target process lost - clearing anchors and re-attaching
+335953 re-attached to pid 18948
+336078 target process lost - clearing anchors and re-attaching
+336078 re-attached to pid 18948
+336187 target process lost - clearing anchors and re-attaching
+336187 re-attached to pid 18948
+336296 target process lost - clearing anchors and re-attaching
+336296 re-attached to pid 18948
+336390 target process lost - clearing anchors and re-attaching
+336406 re-attached to pid 18948
+336515 target process lost - clearing anchors and re-attaching
+336515 re-attached to pid 18948
+336625 target process lost - clearing anchors and re-attaching
+336640 re-attached to pid 18948
+336750 target process lost - clearing anchors and re-attaching
+336750 re-attached to pid 18948
+336859 target process lost - clearing anchors and re-attaching
+336875 re-attached to pid 18948
+336984 target process lost - clearing anchors and re-attaching
+336984 re-attached to pid 18948
+337109 target process lost - clearing anchors and re-attaching
+337109 re-attached to pid 18948
+337218 target process lost - clearing anchors and re-attaching
+337218 re-attached to pid 18948
+337328 target process lost - clearing anchors and re-attaching
+337343 re-attached to pid 18948
+337453 target process lost - clearing anchors and re-attaching
+337453 re-attached to pid 18948
+337562 target process lost - clearing anchors and re-attaching
+337562 re-attached to pid 18948
+337671 target process lost - clearing anchors and re-attaching
+337687 re-attached to pid 18948
+337781 target process lost - clearing anchors and re-attaching
+337796 re-attached to pid 18948
+337906 target process lost - clearing anchors and re-attaching
+337906 re-attached to pid 18948
+338015 target process lost - clearing anchors and re-attaching
+338015 re-attached to pid 18948
+338125 target process lost - clearing anchors and re-attaching
+338125 re-attached to pid 18948
+338234 target process lost - clearing anchors and re-attaching
+338234 re-attached to pid 18948
+338328 target process lost - clearing anchors and re-attaching
+338328 re-attached to pid 18948
+338437 target process lost - clearing anchors and re-attaching
+338437 re-attached to pid 18948
+338531 target process lost - clearing anchors and re-attaching
+338531 re-attached to pid 18948
+338656 target process lost - clearing anchors and re-attaching
+338656 re-attached to pid 18948
+338781 target process lost - clearing anchors and re-attaching
+338781 re-attached to pid 18948
+338890 target process lost - clearing anchors and re-attaching
+338890 re-attached to pid 18948
+339000 target process lost - clearing anchors and re-attaching
+339000 re-attached to pid 18948
+339125 target process lost - clearing anchors and re-attaching
+339125 re-attached to pid 18948
+339250 target process lost - clearing anchors and re-attaching
+339250 re-attached to pid 18948
+339359 target process lost - clearing anchors and re-attaching
+339359 re-attached to pid 18948
+339468 target process lost - clearing anchors and re-attaching
+339484 re-attached to pid 18948
+339593 target process lost - clearing anchors and re-attaching
+339593 re-attached to pid 18948
+339687 target process lost - clearing anchors and re-attaching
+339687 re-attached to pid 18948
+339781 target process lost - clearing anchors and re-attaching
+339781 re-attached to pid 18948
+339875 target process lost - clearing anchors and re-attaching
+339890 re-attached to pid 18948
+339984 target process lost - clearing anchors and re-attaching
+339984 re-attached to pid 18948
+340093 target process lost - clearing anchors and re-attaching
+340093 re-attached to pid 18948
+340187 target process lost - clearing anchors and re-attaching
+340203 re-attached to pid 18948
+340296 target process lost - clearing anchors and re-attaching
+340312 re-attached to pid 18948
+340421 target process lost - clearing anchors and re-attaching
+340421 re-attached to pid 18948
+340546 target process lost - clearing anchors and re-attaching
+340546 re-attached to pid 18948
+340656 target process lost - clearing anchors and re-attaching
+340656 re-attached to pid 18948
+340765 target process lost - clearing anchors and re-attaching
+340765 re-attached to pid 18948
+340890 target process lost - clearing anchors and re-attaching
+340890 re-attached to pid 18948
+341000 target process lost - clearing anchors and re-attaching
+341000 re-attached to pid 18948
+341125 target process lost - clearing anchors and re-attaching
+341125 re-attached to pid 18948
+341234 target process lost - clearing anchors and re-attaching
+341234 re-attached to pid 18948
+341343 target process lost - clearing anchors and re-attaching
+341343 re-attached to pid 18948
+341453 target process lost - clearing anchors and re-attaching
+341453 re-attached to pid 18948
+341562 target process lost - clearing anchors and re-attaching
+341578 re-attached to pid 18948
+341687 target process lost - clearing anchors and re-attaching
+341687 re-attached to pid 18948
+341796 target process lost - clearing anchors and re-attaching
+341812 re-attached to pid 18948
+341921 target process lost - clearing anchors and re-attaching
+341921 re-attached to pid 18948
+342031 target process lost - clearing anchors and re-attaching
+342031 re-attached to pid 18948
+342125 target process lost - clearing anchors and re-attaching
+342140 re-attached to pid 18948
+342234 target process lost - clearing anchors and re-attaching
+342234 re-attached to pid 18948
+342343 target process lost - clearing anchors and re-attaching
+342343 re-attached to pid 18948
+342453 target process lost - clearing anchors and re-attaching
+342468 re-attached to pid 18948
+342562 target process lost - clearing anchors and re-attaching
+342562 re-attached to pid 18948
+342656 target process lost - clearing anchors and re-attaching
+342656 re-attached to pid 18948
+342734 target process lost - clearing anchors and re-attaching
+342750 re-attached to pid 18948
+342828 target process lost - clearing anchors and re-attaching
+342843 re-attached to pid 18948
+342953 target process lost - clearing anchors and re-attaching
+342953 re-attached to pid 18948
+343062 target process lost - clearing anchors and re-attaching
+343062 re-attached to pid 18948
+343171 target process lost - clearing anchors and re-attaching
+343187 re-attached to pid 18948
+343296 target process lost - clearing anchors and re-attaching
+343296 re-attached to pid 18948
+343421 target process lost - clearing anchors and re-attaching
+343421 re-attached to pid 18948
+343531 target process lost - clearing anchors and re-attaching
+343531 re-attached to pid 18948
+343625 target process lost - clearing anchors and re-attaching
+343640 re-attached to pid 18948
+343718 target process lost - clearing anchors and re-attaching
+344046 target process lost - clearing anchors and re-attaching
+344375 target process lost - clearing anchors and re-attaching
+344703 target process lost - clearing anchors and re-attaching
+345046 target process lost - clearing anchors and re-attaching
+345359 target process lost - clearing anchors and re-attaching
+345687 target process lost - clearing anchors and re-attaching
+346031 target process lost - clearing anchors and re-attaching
+346375 target process lost - clearing anchors and re-attaching
+346703 target process lost - clearing anchors and re-attaching
+347046 target process lost - clearing anchors and re-attaching
